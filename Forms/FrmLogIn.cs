@@ -35,7 +35,6 @@ namespace VitApp_0._1._0
             this.Hide();
             FrmCreateAccount frmCreateAccount = new FrmCreateAccount();
             frmCreateAccount.ShowDialog();
-            this.Close();
         }
 
 
